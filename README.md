@@ -1,7 +1,7 @@
 # CardioDetect: ECG Cardiovascular Disease Detection using CNN-LSTM
 
 <p align="center">
-  <img src="static/img/ecg_heart.svg" alt="CardioDetect Logo" width="120" height="120">
+  <img src="static/img/logo.png" alt="CardioDetect Logo" width="140" height="140">
 </p>
 
 <p align="center">
@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-ONNX%20%7C%20TensorFlow-orange?logo=tensorflow&logoColor=white" alt="Deep Learning Engine">
   <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green?logo=opencv&logoColor=white" alt="Computer Vision">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License MIT">
+</p>
+
+<p align="center">
+  <img src="static/img/banner.png" alt="CardioDetect Hero Banner" width="700">
 </p>
 
 ---
